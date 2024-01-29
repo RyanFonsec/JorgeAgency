@@ -3,7 +3,7 @@ import HeroImg from '../assets/hero.svg'
 
 const Hero = () => {
     return ( 
-        <div className="flex w-full items-center justify-between mt-14 px-32">
+        <div id="inicio" className="flex w-full items-center justify-between mt-14 px-32">
      
         <div className="flex flex-col w-[400px] gap-4">
          <h1 className="text-4xl font-semibold">Aumente a fidelidade e a satisfação de seus clientes.</h1>
